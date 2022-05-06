@@ -13,14 +13,14 @@ body{
 }
 
 .myTable {
-  border: 1px solid black;
+  border: 5px solid black;
   border-collapse: collapse;
 }
 
 .myTable td {
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-  padding: 0 10px;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  padding: 0 15px;
 }
 
 
